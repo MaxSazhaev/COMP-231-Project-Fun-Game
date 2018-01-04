@@ -1,0 +1,55 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7892
+Begin MonoManager ReloadAssembly
+Platform assembly: J:\programming proj\Programming Project Final\Builds\Build6_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading J:\programming proj\Programming Project Final\Builds\Build6_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: J:\programming proj\Programming Project Final\Builds\Build6_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading J:\programming proj\Programming Project Final\Builds\Build6_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: J:\programming proj\Programming Project Final\Builds\Build6_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading J:\programming proj\Programming Project Final\Builds\Build6_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: J:\programming proj\Programming Project Final\Builds\Build6_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading J:\programming proj\Programming Project Final\Builds\Build6_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: J:\programming proj\Programming Project Final\Builds\Build6_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading J:\programming proj\Programming Project Final\Builds\Build6_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.096 seconds
+Platform assembly: J:\programming proj\Programming Project Final\Builds\Build6_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: J:\programming proj\Programming Project Final\Builds\Build6_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 2970x1689 at 0,-609
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.969942 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2588 -> priority: 1 
+NullReferenceException: Object reference not set to an instance of an object
+  at GUI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GUI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GUI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GUI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.011983 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 415.
+Total: 0.205699 ms (FindLiveObjects: 0.022221 ms CreateObjectMapping: 0.012311 ms MarkObjects: 0.128825 ms  DeleteObjects: 0.041440 ms)
+
